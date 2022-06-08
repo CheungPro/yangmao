@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: hengrui tech blog
+title: 薅羊毛
 brief-intro: 主要研究数理统计，等
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.hengrui.tech" # the base hostname & protocol for your site
+url: "https://haoyangmao.hengrui.tech" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
