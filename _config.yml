@@ -7,7 +7,7 @@
 
 # Site settings
 title: 薅羊毛
-brief-intro: 主要研究数理统计，等
+brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://haoyangmao.hengrui.tech" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 记录我的统计学学习之路！数学，计算机，经济与金融！
+description_footer:薅羊毛
 
 # comments
 # two ways to comment, only choose one, and use your own short name
